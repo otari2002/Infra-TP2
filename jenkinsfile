@@ -1,7 +1,7 @@
 pipeline {
   environment {
     registry = "otari2002/infra-tp2"
-    registryCredential = 'dockerhub'
+    registryCredential = 'aff83bb9-5b1a-43b6-9883-844da80fbe49'
     dockerImage = ''
   }
   agent any
